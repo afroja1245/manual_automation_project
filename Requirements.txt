@@ -1,0 +1,14 @@
+#Verify the following URL login functionality work or not.
+
+URL="www.saucedemo.com"
+
+Accepted usernames are:
+1.standard_user
+2.locked_out_user
+3.problem_user
+4.performance_glitch_user
+5.error_user
+6.visual_user
+
+Password for all users:
+1.secret_sauce
